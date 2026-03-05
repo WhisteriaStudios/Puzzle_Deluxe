@@ -26,7 +26,7 @@ New puzzle types can be added as modular game play systems.
 # **Screenshots**  
 [Screenshots will appear here]  
    
-# **Game** ** ** **play**  
+# **Game play**  
 [Game play will appear here]  
 # **Built With**  
 | | |  
