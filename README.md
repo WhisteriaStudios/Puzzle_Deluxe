@@ -1,11 +1,11 @@
-**Puzzle Deluxe**  
+# **Puzzle Deluxe**  
 
-
+<img width="48" height="48" alt="Puzzle Deluxe Icon" src="https://github.com/user-attachments/assets/428c9f2b-eaa1-43ed-bdfa-6b6958cd0fc4" />
  
 A modular puzzle game project exploring game play systems, mechanics, and experimental puzzle design.
 
 **About Puzzle Deluxe**  
-**Puzzle Deluxe** is a puzzle-focused game project built in   **Unity 6**.  
+Puzzle Deluxe** is a puzzle-focused game project built in Unity 6.  
    
  The project serves three purposes:  
 =======
