@@ -1,6 +1,8 @@
 # **Puzzle Deluxe**  
    
 A modular puzzle game project exploring game play systems, mechanics, and experimental puzzle design.  
+# **Socials**
+Discord - https://discord.gg/pZvG9xwdVm
 # **About Puzzle Deluxe**  
 **Puzzle Deluxe** is a puzzle-focused game project built in  **Unity 6**.  
 The project serves three purposes:  
