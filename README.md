@@ -2,7 +2,8 @@
 
 
  
-**A modular puzzle game project exploring game play systems, mechanics, and experimental puzzle design.  
+A modular puzzle game project exploring game play systems, mechanics, and experimental puzzle design.
+
 **About Puzzle Deluxe**  
 **Puzzle Deluxe** is a puzzle-focused game project built in   **Unity 6**.  
    
